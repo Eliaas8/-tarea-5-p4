@@ -1,0 +1,5 @@
+redis
+python-dotenv
+
+Instalación:
+pip install -r requirements.txt
